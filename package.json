@@ -1,6 +1,6 @@
 {
   "name": "object-clear",
-  "description": "",
+  "description": "delete all properties of an object",
   "version": "0.0.1",
   "main": "object-clear.js",
   "repository": {
