@@ -1,0 +1,6 @@
+# object-clear
+
+## License
+
+MIT
+

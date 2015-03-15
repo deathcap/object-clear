@@ -1,0 +1,23 @@
+{
+  "name": "object-clear",
+  "description": "",
+  "version": "0.0.1",
+  "main": "object-clear.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deathcap/object-clear.git"
+  },
+  "keywords": [
+    "object",
+    "clear",
+    "properties"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
